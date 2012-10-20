@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./Bolo apple2e -flop1 bolo.dsk
